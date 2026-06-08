@@ -7,7 +7,7 @@ import { motion } from "framer-motion";
 import { Download, ArrowRight, ArrowUpRight, Mail, Linkedin } from "lucide-react";
 import { SiGithub } from "react-icons/si";
 
-import profilePhoto from "@assets/WhatsApp_Image_2026-06-07_at_2.07.34_PM_1780821485007.jpeg";
+import profilePhoto from "@assets/my-photo.jpeg";
 import project1 from "@/assets/project-1.png";
 import project2 from "@/assets/project-2.png";
 
