@@ -6,7 +6,6 @@ import NotFound from "@/pages/not-found";
 import { motion } from "framer-motion";
 import { Download, ArrowRight, ArrowUpRight, Mail, Linkedin } from "lucide-react";
 import { SiGithub } from "react-icons/si";
-
 import profilePhoto from "@assets/my-photo.jpeg";
 import project1 from "@/assets/project-1.png";
 import project2 from "@/assets/project-2.png";
